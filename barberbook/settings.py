@@ -1,0 +1,2 @@
+SLOT_STEP_MINUTES = 15
+TIMEZONE = 'Europe/Chisinau'
